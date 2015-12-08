@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">StarRating</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="rate_me">Rate me!</string>
+</resources>
